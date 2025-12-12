@@ -3,6 +3,21 @@
 Ce projet contient l'application **AppTuteur**, exécutée à l'aide de
 **Docker**, **Symfony**, et **MySQL**.
 
+
+Cette application permettra à un tuteur :
+•
+de se connecter,
+•
+de se déconnecter,
+•
+de gérer les étudiants qu’il suit,
+•
+de planifier des visites,
+•
+de rédiger un compte-rendu,
+•
+de visualiser l’historique.
+
 ------------------------------------------------------------------------
 
 ## 🚀 1. Installation du projet
