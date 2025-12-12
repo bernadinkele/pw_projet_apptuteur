@@ -120,11 +120,19 @@ Accéder à :
 Se connecter avec l'email et le mot de passe du tuteur créé juste avant.
 
 ------------------------------------------------------------------------
-### App Preview
+### Ecrans
 
 |             DASHBOARD             |           LOGIN         |             VISITES          |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/dashboard_2.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/login.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/visites.png" width="400"> |
+| <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/dashboard_2.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/login.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/visites_2.png" width="400"> |
+
+|            ETUDIANTS            |           AJOUT ETUDIANT        |             MODIFICATION ETUDIANT          |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: |
+| <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/etudiants.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/ajout_etudiant.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/modif_etudiant.png" width="400"> |
+
+|            AJOUT VISITE           |           AJOUT ETUDIANT        |             Dashboard          |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: |
+| <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/ajouter_visites.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/ajout_etudiant.png" width="400"> | <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/Capture%20d'%C3%A9cran%202025-12-11%20142528.png" width="400"> |
 
 
 ## 👥 Contributeurs
