@@ -72,7 +72,7 @@ Accéder à votre base de données via :
 👉 **http://localhost:8081/**
 
 
-## ▶️ 5. **Démarrer le serveur Symfony après les migrations**
+## ▶️ 5. **Démarrer le serveur Symfony **
 Exécuter depuis votre machine :
 ```bash
 symfony serve:start
@@ -107,7 +107,7 @@ Accéder à :
 Se connecter avec l'email et le mot de passe du tuteur créé juste avant.
 
 ------------------------------------------------------------------------
-### Ecrans
+### captures des pages
 
 |             DASHBOARD             |           LOGIN         |             VISITES          |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
