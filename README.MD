@@ -132,7 +132,7 @@ Se connecter avec l'email et le mot de passe du tuteur créé juste avant.
 ## 👥 Contributeurs
 
 -   **KELE Berndin**
--   **Yoro**
+-   **MAMADOU YERO SALL**
 
 ------------------------------------------------------------------------
 
