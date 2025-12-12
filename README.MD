@@ -124,7 +124,7 @@ Se connecter avec l'email et le mot de passe du tuteur créé juste avant.
 
 |              Home             |            Cart           |             Chat          |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| <img src="https://github.com/bernadinkele/flash_food/blob/main/screenshoots/1.png" width="350"> | <img src="https://github.com/bernadinkele/flash_food/blob/main/screenshoots/4.png" width="350"> | <img src="https://github.com/bernadinkele/flash_food/blob/main/screenshoots/5.png" width="350"> |
+| <img src="https://github.com/bernadinkele/pw_projet_apptuteur/blob/main/captures/dashboard_2.png" width="350"> | <img src="https://github.com/bernadinkele/flash_food/blob/main/screenshoots/4.png" width="350"> | <img src="https://github.com/bernadinkele/flash_food/blob/main/screenshoots/5.png" width="350"> |
 
 
 ## 👥 Contributeurs
