@@ -67,6 +67,10 @@ composer install
 
 ## 🗄️ 4. Base de données : réinitialisation & migrations
 
+Accéder à votre base de données via :
+
+👉 **http://localhost:8081/**
+
 Créer une migration :
 
 ``` bash
