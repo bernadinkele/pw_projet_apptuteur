@@ -65,23 +65,12 @@ composer install
 
 ------------------------------------------------------------------------
 
-## 🗄️ 4. Base de données : réinitialisation & migrations
+## 🗄️ 4. Base de données
 
 Accéder à votre base de données via :
 
 👉 **http://localhost:8081/**
 
-Créer une migration :
-
-``` bash
-symfony console make:migration
-```
-
-Exécuter les migrations :
-
-``` bash
-symfony console doctrine:migrations:migrate
-```
 
 ## ▶️ 5. **Démarrer le serveur Symfony après les migrations**
 Exécuter depuis votre machine :
