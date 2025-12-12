@@ -104,7 +104,7 @@ Accéder à :
 
 👉 **http://localhost:8000/login**
 
-Se connecter avec l'email et le mot de passe du tuteur créé juste avant.
+Se connecter avec l'email: alice.durand@example.com et n'importe quel mot de passe (on a pas ajouter de mot de passe)
 
 ------------------------------------------------------------------------
 ### captures des pages
