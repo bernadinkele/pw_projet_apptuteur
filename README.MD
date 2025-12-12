@@ -67,12 +67,6 @@ composer install
 
 ## 🗄️ 4. Base de données : réinitialisation & migrations
 
-Supprimer la base existante :
-
-``` bash
-symfony console doctrine:database:drop --force
-```
-
 Créer une migration :
 
 ``` bash
