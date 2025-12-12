@@ -6,6 +6,8 @@ Ce projet contient l'application **AppTuteur**, exécutée à l'aide de
 
 Cette application permettra à un tuteur : se connecter,se déconnecter,de gérer les étudiants qu’il suit,de planifier des visites,de rédiger un compte-rendu,de visualiser l’historique.
 
+##  Installation du projet
+ - Avoir docker installé et allumé
 ------------------------------------------------------------------------
 
 ## 🚀 1. Installation du projet
